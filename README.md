@@ -1,6 +1,6 @@
 # gypkg-cmd-socket
 [![NPM version](https://badge.fury.io/js/gypkg-cmd-socket.svg)](http://badge.fury.io/js/gypkg-cmd-socket)
-[![Build Status](https://secure.travis-ci.org/gypkg-cmd-socket/gypkg-cmd-socket.svg)](http://travis-ci.org/gypkg-cmd-socket/gypkg-cmd-socket)
+[![Build Status](https://secure.travis-ci.org/gypkg/gypkg-cmd-socket.svg)](http://travis-ci.org/gypkg/gypkg-cmd-socket)
 
 An internal component of [`gypkg`][0].
 
