@@ -1,0 +1,29 @@
+{
+  "name": "gypkg-cmd-socket",
+  "version": "1.0.0",
+  "description": "Command Socket class for gypkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gypkg/gypkg-cmd-socket.git"
+  },
+  "keywords": [
+    "gypkg",
+    "command",
+    "socket",
+    "cmd"
+  ],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gypkg/gypkg-cmd-socket/issues"
+  },
+  "homepage": "https://github.com/gypkg/gypkg-cmd-socket#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "stream-pair": "^1.0.3"
+  }
+}
